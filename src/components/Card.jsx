@@ -1,4 +1,4 @@
-import './styles.css'
+
 
 export default function Card(props) {
     const { title, children } = props
